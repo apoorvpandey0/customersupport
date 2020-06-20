@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'pages.apps.PagesConfig',
     'users.apps.UsersConfig',
     #Third Party Apps
-    'taggit',
     'crispy_forms',
 ]
 TAGGIT_CASE_INSENSITIVE = True

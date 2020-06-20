@@ -1,1 +1,1 @@
-web: gunicorn cstsupport.wsgi
+web: gunicorn support.wsgi
