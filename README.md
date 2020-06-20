@@ -4,7 +4,7 @@ I would suggest to check out the live version of the project at: https://cstsupp
 
 Users can create new issues and they will be assigned to the appropriate agents.
 
-The algorithm assigning the agents is inside pages/algorithms.py,it is a function that takes issue as an argument and returns the agent selected for the task.
+The algorithm assigning the agents is inside pages/algorithms.py,it is a function that takes issue as an argument and returns the agent selected for the task(selected on the basis of selection_modes).
 
 1.Create Issues:
   User can create issues from the form in the left.
